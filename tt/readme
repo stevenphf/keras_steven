@@ -1,0 +1,2 @@
+python ns_transfer.py   待转化图片路径    模板图片路径         生产图片路径加名称（注意不需要有.jpg等后缀）
+ python ns_transfer.py   './me.jpg'       './starry_night.jpg' './me_t'
